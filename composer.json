@@ -1,0 +1,24 @@
+{
+    "name": "biboletin/response",
+    "description": "HTTP Response class based on PSR-7",
+    "version": "v1.0.0",
+    "type": "library",
+    "require": {
+        "psr/http-message": "2.0.x-dev",
+        "biboletin/request": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Biboletin\\Response\\": "src/",
+            "Biboletin\\Response\\Facades\\": "src/Facades/"
+        }
+    },
+    "authors": [
+        {
+            "name": "biboletin",
+            "email": "shady_fan@abv.bg"
+        }
+    ],
+    "minimum-stability": "dev"
+}
