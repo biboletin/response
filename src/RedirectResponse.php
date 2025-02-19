@@ -2,7 +2,8 @@
 
 namespace Biboletin\Response;
 
-class RedirectResponseHandler extends BaseResponse
+
+class RedirectResponse extends BaseResponse
 {
     public function __construct(string $url, int $statusCode = 200, array $headers = [])
     {

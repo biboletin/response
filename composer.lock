@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/biboletin/request.git",
-                "reference": "f8e7d62b185ff80cfe74644d0b5287fad0fe1e38"
+                "reference": "ef7256b51a858be7ce85ae743a817ea2d8012ee8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/biboletin/request/zipball/f8e7d62b185ff80cfe74644d0b5287fad0fe1e38",
-                "reference": "f8e7d62b185ff80cfe74644d0b5287fad0fe1e38",
+                "url": "https://api.github.com/repos/biboletin/request/zipball/ef7256b51a858be7ce85ae743a817ea2d8012ee8",
+                "reference": "ef7256b51a858be7ce85ae743a817ea2d8012ee8",
                 "shasum": ""
             },
             "require": {
@@ -52,7 +52,7 @@
                 "issues": "https://github.com/biboletin/request/issues",
                 "source": "https://github.com/biboletin/request/tree/main"
             },
-            "time": "2025-02-09T17:04:03+00:00"
+            "time": "2025-02-09T17:49:01+00:00"
         },
         {
             "name": "psr/http-message",
