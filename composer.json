@@ -1,7 +1,7 @@
 {
     "name": "biboletin/response",
     "description": "HTTP Response class based on PSR-7",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "type": "library",
     "require": {
         "psr/http-message": "2.0.x-dev",

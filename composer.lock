@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d8859708244ba4eb2811e2dd5ef01a19",
+    "content-hash": "7eb5499c4fee3b5d8539efe8865064a9",
     "packages": [
         {
             "name": "biboletin/request",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/biboletin/request.git",
-                "reference": "ef7256b51a858be7ce85ae743a817ea2d8012ee8"
+                "reference": "c8fba1ec3392da33c4fd3386fa629045440c33dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/biboletin/request/zipball/ef7256b51a858be7ce85ae743a817ea2d8012ee8",
-                "reference": "ef7256b51a858be7ce85ae743a817ea2d8012ee8",
+                "url": "https://api.github.com/repos/biboletin/request/zipball/c8fba1ec3392da33c4fd3386fa629045440c33dd",
+                "reference": "c8fba1ec3392da33c4fd3386fa629045440c33dd",
                 "shasum": ""
             },
             "require": {
@@ -52,7 +52,7 @@
                 "issues": "https://github.com/biboletin/request/issues",
                 "source": "https://github.com/biboletin/request/tree/main"
             },
-            "time": "2025-02-09T17:49:01+00:00"
+            "time": "2025-05-23T21:32:21+00:00"
         },
         {
             "name": "psr/http-message",
