@@ -5,7 +5,8 @@
     "type": "library",
     "require": {
         "psr/http-message": "2.0.x-dev",
-        "biboletin/request": "dev-main"
+        "biboletin/request": "dev-main",
+        "ext-simplexml": "*"
     },
     "license": "MIT",
     "autoload": {
