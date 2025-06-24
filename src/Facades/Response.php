@@ -162,7 +162,7 @@ class Response
     }
 
     /**
-     * Set status code and optional reason phrase.
+     * Set a status code and optional reason phrase.
      *
      * @param int    $code
      * @param string $reasonPhrase
